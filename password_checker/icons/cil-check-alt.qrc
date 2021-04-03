@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cil-check-alt">
+    <file>cil-check-alt.png</file>
+  </qresource>
+</RCC>

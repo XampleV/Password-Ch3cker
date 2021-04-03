@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="go_back_button">
+    <file>go_back_button.png</file>
+  </qresource>
+</RCC>
